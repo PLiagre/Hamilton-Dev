@@ -1,0 +1,7 @@
+Methodes importantes hardhat : 
+install : npm install --save-dev hardhat
+initialisation: npx hardhat init (puis enter tout le temps)
+lancement de blockchain locale de dev : npx hardhat node
+déploiement de contrat : 
+methode ignition : npx hardhat ignition deploy ./ignition/modules/NOM.js
+methode script : npx hardhat run./script/NOM.js
